@@ -7,8 +7,11 @@ Hello! I'm Angel, a student in Northeast Kansas. I'm currently studying with @Tr
 - Summer's my favorite season 🕶️, finally able to play pickleball again! 🏓
 - My word for 2025 is *Endurance*
 
-## ☀️ Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/angel-moritz) [![Gmail Badge](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelmoritz04@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-angelmoritz04@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:angelmoritz04@gmail.com)](mailto:angelmoritz04@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-angelmoritz-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelmoritz/)](https://www.linkedin.com/in/angelmoritz/) [![Github Badge](https://img.shields.io/badge/-angelmoritz04-grey?style=flat&logo=github&logoColor=white&link=https://github.com/angelmoritz04/)](https://www.github.com/angelmoritz04/) <p align='left'>hi!</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=angelmoritz04 alt=angelmoritz04 /> </p>
 
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=angelmoritz04&show_icons=true&include_all_commits=true)](https://github.com/angelmoritz04/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelmoritz04&layout=compact)](https://github.com/angelmoritz04/github-readme-stats)
+
