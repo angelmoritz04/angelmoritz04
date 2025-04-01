@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Angel, a student in Northeast Kansas. I'm currently studying with @TripleTen to launch my career in data analytics.<br><br>
+Hello! I'm Angel, a student in Northeast Kansas. I'm currently studying with TripleTen to launch my career in data analytics.<br><br>
 
 ## 💌 Some Fun Facts!
 - I love hot chocolate ☕️, and often make my own at home!
